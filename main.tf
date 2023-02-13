@@ -1,7 +1,7 @@
 provider "aws" {
   region = var.region
-  access_key = "AKIAZ3APSXWHZU2GCPPY"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 module "s3-webapp" {
